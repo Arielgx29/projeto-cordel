@@ -72,6 +72,7 @@ main p {
     background-position: right center; 
     background-size: cover;
     background-attachment: fixed;
+    background-repeat: no-repeat;
     box-shadow: insent 5px 5px 10px 0px rgba(0, 0, 0, 0.452);
     padding-top: 10vh;
     padding-bottom: 10vh;
@@ -83,6 +84,7 @@ main p {
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
+    background-repeat: no-repeat;
     box-shadow: inset 5px 5px 10px 0px rgba(0, 0, 0, 0.445);
     padding-top: 10vh;
     padding-bottom: 10vh;
